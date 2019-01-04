@@ -1,0 +1,15 @@
+C:\Users\tanki\source\repos\AudioProject\AudioProject\bin\Debug\AudioProject.exe.config
+C:\Users\tanki\source\repos\AudioProject\AudioProject\bin\Debug\AudioProject.exe
+C:\Users\tanki\source\repos\AudioProject\AudioProject\bin\Debug\AudioProject.pdb
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.csprojAssemblyReference.cache
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.Form1.resources
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.Properties.Resources.resources
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.csproj.GenerateResource.cache
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.csproj.CoreCompileInputs.cache
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.exe
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.pdb
+C:\Users\tanki\source\repos\AudioProject\AudioProject\bin\Debug\NAudio.dll
+C:\Users\tanki\source\repos\AudioProject\AudioProject\bin\Debug\NAudio.xml
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.csproj.CopyComplete
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\tanki\source\repos\AudioProject\AudioProject\obj\Debug\AudioProject.csproj.ResolveComReference.cache
